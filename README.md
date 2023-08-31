@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Tianhao Li
+# Greeting!
 
 Hi there! My name is Tianhao Li, also known as David Lee, and I am currently an undergraduate student majoring in Information Security. My academic pursuits have been fueled by a passion for exploring innovative solutions to complex security challenges.
 
